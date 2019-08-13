@@ -7,7 +7,7 @@ import { post } from './shared/models/post.model';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'projetblog';
+  title = 'Projet Angular ClassRoom blog';
 
   listPosts : post[] = [
      new post('Mon premier Post',
